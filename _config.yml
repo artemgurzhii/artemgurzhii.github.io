@@ -22,7 +22,8 @@ projects:
   exclude:
     forks: true
     projects:
-      # - ember.js
+      - ember.js
+      - sequent
 
 social_media:
   linkedin: artem-gurzhii-088951b0
